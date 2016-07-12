@@ -1,0 +1,10 @@
+QA120&Java Programming&GholamAli Irani&130&Programming, Object Oriented
+QA120&Java Programming&GholamAli Irani&130&Programming, Object Oriented
+1111&11&11&11&11
+111&11&11&11&11
+222&22&22&22&22
+222&22&22&22&22
+333&33&33&33&33
+121&121&121&121&121
+QA120-32&Java Databases&Irani&1200&Database
+SS12&C++&Alavi&1200&C, C++
